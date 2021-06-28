@@ -17,7 +17,7 @@
 - I am an incoming 3rd year Statstics and Data Science major
 - I just added an Education minor and am taking my first class
 - I love working with digital art in my spare time!
-- I learned how to fork a repo, make commits, and create a pull request
+- I learned how to fork a repo, make commits, and create a pull request (need to practice more, making an update!)
 - I am excited to learn more about data science and coding!
 
 # Yimin Arava
@@ -25,3 +25,16 @@
 - I learned how to Fork, Clone and create Pull Request on GitHub
 - Python is my favorite programming language 
 - I know how to speak English and Mandarin
+
+# Bernie Graves
+- I just finished my second year at UCSB
+- I used to be a physics major but switched to statistics and data science
+- GitHub seems like an incredibly important part of coding and I'm glad to have found this gorup to properly learn it
+- I learned how to fork, commit, clone a repo and make pull requests
+
+# Harper Klauke
+- I'm an incoming 4th year Statistics and Data Science major
+- I currently work as a peer advisor for the UCSB PSTAT Department
+- I like to write stuff and read books
+- I'm gradually figuring out source control
+- I'm also in the process of creating a GitHub Pages site!
